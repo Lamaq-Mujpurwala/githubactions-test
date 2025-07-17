@@ -7,4 +7,4 @@ def test_add():
 
 def test_multiply():
     assert multiply(5,3)==15
-    assert multiply(4,6)==33
+    assert multiply(4,6)==24
